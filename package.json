@@ -8,6 +8,7 @@
   "private": true,
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase": "^7.24.0",
     "regenerator-runtime": "^0.13.7",
     "whatwg-fetch": "^3.4.1"
   },
